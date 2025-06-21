@@ -1,8 +1,8 @@
 ---
 title: Charges by PADDLE.NET* MCONVERTER
 description: See what is PADDLE.NET* MCONVERTER and why you were charged.
-image: TODO.webp
-image_alt: TODO
+image: paddle_mconverter_debit.webp
+image_alt: An example PADDLE.NET* MCONVERTER charge
 date_added: 2025-06-19
 date_updated: 2025-06-19
 categories:
