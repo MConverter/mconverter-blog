@@ -8,7 +8,7 @@ date_updated: 2024-05-14
 categories:
   - document_conversion
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 ## What is CSV format?

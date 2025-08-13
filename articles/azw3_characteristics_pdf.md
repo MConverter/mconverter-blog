@@ -8,7 +8,7 @@ date_updated: 2024-07-16
 categories:
   - ebook_conversion
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 A file is a buzzword that we encounter in our everyday lives. But, what exactly is a file and what are its compositions? For starters, a file is a fundamental bedrock of the computing experience. But, intrinsically speaking, it is a collection of bits (zeroes and ones) arranged in a pattern that an application understands. But, one of the most integral components of a file is its format. 

@@ -8,7 +8,7 @@ date_updated: 2025-04-07
 categories:
   - video_conversion
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 The MP4 (MPEG-4 Part 14) file format is one of the most common digital multimedia formats used today. It is known best for its high-quality compression and compatibility with various devices and operating systems. 

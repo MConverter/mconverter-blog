@@ -8,7 +8,7 @@ date_updated: 2024-04-16
 categories:
   - audio_conversion
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 The audio files we use in our everyday lives come in different formats. The most common audio file extensions include MP4, WAV, AAC, WMA, etc. Usually, nobody pays heed to the format of a file and only realizes file issues after incompatibility. When an audio file is not compatible with a device, it has to be converted into a format that is palatable with the mobile, laptop, tablet, etc. In this case, one will need a file converter. If you are somebody who always struggles with file conversions, then this blog is just for you. Join us, as we explore the fundamentals of the WMA file and understand [how to convert WMA to MP3](https://mconverter.eu/convert/wma/).

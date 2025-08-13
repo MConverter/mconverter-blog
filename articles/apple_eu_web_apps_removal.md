@@ -9,7 +9,7 @@ categories:
   - help
   - technical
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 *Thanks to a potential [formal investigation](https://www.ft.com/content/d2f7328c-5851-4f16-8f8d-93f0098b6adc) by the European Commission and an [open letter](https://letter.open-web-advocacy.org/) to Tim Cook, Apple has reversed its decision to disable installable web apps in the EU.*

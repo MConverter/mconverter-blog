@@ -8,7 +8,7 @@ date_updated: 2022-07-05
 categories:
   - technical
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 *This article originally appeared on our Medium blog.*

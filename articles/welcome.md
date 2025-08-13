@@ -6,7 +6,7 @@ image_alt: Easily convert files online
 date_added: 2022-03-06
 date_updated: 2022-03-06
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 In the coming weeks, we're excited to share with you lots of tips and tricks for using MConverter. Also, stay tuned for new features. They'll be announced here first.

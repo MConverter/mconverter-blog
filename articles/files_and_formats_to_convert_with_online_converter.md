@@ -8,7 +8,7 @@ date_updated: 2024-05-28
 categories:
   - tips_and_tricks
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 We hardly have time to spend hours searching for an efficient and quick converting tool or application to convert one file format into another.

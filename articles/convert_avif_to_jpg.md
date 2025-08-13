@@ -8,7 +8,7 @@ date_updated: 2024-05-07
 categories:
   - image_conversion
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 ## What is an AVIF file?

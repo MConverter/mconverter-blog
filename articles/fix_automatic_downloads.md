@@ -9,7 +9,7 @@ categories:
   - help
   - technical
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 MConverter has a [setting](#settings) to automatically download your files once they have finished converting. However, browser policies and restrictions may prevent it from working by default. In this article, we have compiled a list of solutions to fix this issue.

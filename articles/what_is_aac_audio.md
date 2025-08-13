@@ -8,7 +8,7 @@ date_updated: 2024-04-30
 categories:
   - audio_conversion
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 ## What is an AAC file?

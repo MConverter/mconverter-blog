@@ -8,7 +8,7 @@ date_updated: 2024-04-02
 categories:
   - image_conversion
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 A HEIC file contains one or more images saved in the High-Efficiency Image Format (HEIF), a file format that is most commonly used to store photos on iOS devices. An image or series of images, most likely taken with the camera app on an iPhone or iPad, are stored in HEIC files along with the metadata that describes each image. Naturally, HEIC files are saved most frequently with the .heic extension, though they can also be saved as .Heif files. Many people enjoy the quality assured by [HEIC files](https://mconverter.eu/convert/heic/) but often do not understand how to convert them into the JPG format. If this sounds helpful to you, then join us, as we check out the nitty-gritty of how to convert HEIC files to JPG in three ways.

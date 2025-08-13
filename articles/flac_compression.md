@@ -9,7 +9,7 @@ categories:
   - audio_conversion
   - tips_and_tricks
 aside_cards:
-  - app
+  - mobile_app
 ---
 
 ## Why Do We Need to Compress Audio Files Using FLAC?
