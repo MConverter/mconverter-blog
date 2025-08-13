@@ -8,6 +8,8 @@ date_updated: 2025-04-08
 categories:
   - tips_and_tricks
   - help
+aside_cards:
+  - app
 ---
 
 MConverter has recently introduced folder conversion support in its latest update for iOS 18.4, enabling users to convert entire folders directly on their iPhone or iPad. If you have multiple files in one place to convert, simply open the app and tap on the **Add Folder** button, choosing the directory that contains your files. Below is a step-by-step guide on how to use this new feature.

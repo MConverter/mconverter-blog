@@ -7,6 +7,8 @@ date_added: 2022-07-04
 date_updated: 2025-03-23
 categories:
   - help
+aside_cards:
+  - app
 ---
 
 At MConverter, we have made it easy for you to cancel your subscription. We do **not** make it purposefully difficult by having you call a phone number and wait, **nor** do we charge early cancellation fees.

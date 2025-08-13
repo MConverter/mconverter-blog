@@ -7,6 +7,8 @@ date_added: 2024-07-02
 date_updated: 2024-07-02
 categories:
   - audio_conversion
+aside_cards:
+  - app
 ---
 
 A file format can be defined as the way data is logically arranged within a file. It is the standard method of storing data on a computer file and specifies how bits encode information in a digital storage medium. There are various types of file formats, some are common while others are more obscure. One rather uncommon yet important file format is FLAC. In this blog, we will delve into the basics of the **FLAC file** format and understand how to convert it to MP3.

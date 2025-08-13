@@ -7,6 +7,8 @@ date_added: 2024-05-14
 date_updated: 2024-05-14
 categories:
   - document_conversion
+aside_cards:
+  - app
 ---
 
 ## What is CSV format?

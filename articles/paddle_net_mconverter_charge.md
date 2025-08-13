@@ -7,6 +7,8 @@ date_added: 2025-06-25
 date_updated: 2025-06-25
 categories:
   - help
+aside_cards:
+  - app
 ---
 
 If you see a "**PADDLE.NET\* MCONVERTER**" charge on your card, it means you have an active subscription for MConverter Plus or Pro, or that you have purchased a One-Day Pass. If you've paid with PayPal, it will appear as "**PAYPAL \*PADDLE.NET**" instead.

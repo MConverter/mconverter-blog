@@ -8,6 +8,8 @@ date_updated: 2023-02-03
 categories:
   - audio_conversion
   - tips_and_tricks
+aside_cards:
+  - app
 ---
 
 ## Why Do We Need to Compress Audio Files Using FLAC?
