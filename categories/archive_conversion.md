@@ -2,4 +2,4 @@
 heading: Archive Conversion
 ---
 
-This is the category description for archive conversions.
+Useful articles about converting archives and other types of compressed files.
