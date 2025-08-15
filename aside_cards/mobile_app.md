@@ -11,6 +11,6 @@ Convert your files on the go with our MConverter app.
 <a href="#getApp" class="not-link" tabindex="-1">
     <button
         class="button raised" style="width:100%"
-        onclick="logEvt('aside_click',{'event_category':'blog','event_label':'mobile_app'});pwaPrompt.webkit.init();"
+        onclick="pwaPrompt.webkit.init()"
         >FREE DOWNLOAD</button>
 </a>
