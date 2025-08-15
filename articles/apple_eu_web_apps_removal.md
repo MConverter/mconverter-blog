@@ -5,6 +5,7 @@ image: web_app_open_in_browser.webp
 image_alt: Screenshot of iPhone showing that “MConverter” will open in your default browser from now on
 date_added: 2024-02-23
 date_updated: 2024-03-06
+author: martin_minchev
 categories:
   - help
   - technical

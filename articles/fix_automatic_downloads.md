@@ -5,6 +5,7 @@ image: automatic_downloads_mac.jpg
 image_alt: Automatic file downloads settings in Safari on Mac
 date_added: 2022-07-05
 date_updated: 2024-01-19
+author: martin_minchev
 categories:
   - help
   - technical

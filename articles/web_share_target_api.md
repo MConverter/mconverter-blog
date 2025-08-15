@@ -5,6 +5,7 @@ image: mconverter_share_android_static.webp
 image_alt: MConverter in Android's Share Sheet
 date_added: 2022-03-16
 date_updated: 2022-07-05
+author: martin_minchev
 categories:
   - technical
 aside_cards:
