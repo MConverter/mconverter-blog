@@ -9,6 +9,7 @@ author: martin_minchev
 categories:
   - technical
 aside_cards:
+  - 50_percent_discount_pro
   - mobile_app
 ---
 

@@ -8,6 +8,7 @@ date_updated: 2024-06-11
 categories:
   - archive_conversion
 aside_cards:
+  - 50_percent_discount_pro
   - mobile_app
 ---
 

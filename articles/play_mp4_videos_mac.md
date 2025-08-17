@@ -8,6 +8,7 @@ date_updated: 2025-04-07
 categories:
   - video_conversion
 aside_cards:
+  - 50_percent_discount_pro
   - mobile_app
 ---
 

@@ -9,6 +9,7 @@ categories:
   - tips_and_tricks
   - help
 aside_cards:
+  - 50_percent_discount_pro
   - mobile_app
 ---
 

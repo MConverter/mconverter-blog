@@ -8,6 +8,7 @@ date_updated: 2024-07-16
 categories:
   - ebook_conversion
 aside_cards:
+  - 50_percent_discount_pro
   - mobile_app
 ---
 

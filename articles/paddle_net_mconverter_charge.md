@@ -8,6 +8,7 @@ date_updated: 2025-06-25
 categories:
   - help
 aside_cards:
+  - 50_percent_discount_pro
   - mobile_app
 ---
 

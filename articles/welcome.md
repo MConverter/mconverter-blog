@@ -7,6 +7,7 @@ date_added: 2022-03-06
 date_updated: 2022-03-06
 author: martin_minchev
 aside_cards:
+  - 50_percent_discount_pro
   - mobile_app
 ---
 

@@ -8,6 +8,7 @@ date_updated: 2024-04-02
 categories:
   - image_conversion
 aside_cards:
+  - 50_percent_discount_pro
   - mobile_app
 ---
 
