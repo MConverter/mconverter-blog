@@ -1,5 +1,6 @@
 ---
 title: My test title
+meta_title: SEO title
 description: My test description.
 image: castle.webp
 image_alt: MConverter Premium badge
