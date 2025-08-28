@@ -60,7 +60,6 @@ jobs:
           # We rsync relative to the rrsync jail root; destination " ./ "
           rsync -azO --delete \
             --exclude '.git' --exclude '.github' --exclude 'README.md' \
-            --chmod=ug=rwX,o=rX \
             ./ "${DEPLOY_USER}@${DEPLOY_HOST}:./"
         # rrsync on the VPS restricts to /home/mconverter/server/mconverter-blog
 
