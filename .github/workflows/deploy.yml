@@ -54,7 +54,6 @@ jobs:
             UserKnownHostsFile ~/.ssh/known_hosts
           CFG
           chmod 600 ~/.ssh/config
-          cat ~/.ssh/config
 
       - name: Rsync to restricted directory via CF Tunnel
         run: |
