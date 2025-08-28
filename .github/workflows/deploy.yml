@@ -58,7 +58,7 @@ jobs:
       - name: Rsync to restricted directory via CF Tunnel
         run: |
           # We rsync relative to the rrsync jail root; destination " ./ "
-          rsync -az --delete \
+          rsync -azO --delete \
             --exclude '.git' --exclude '.github' --exclude 'README.md' \
             --chmod=ug=rwX,o=rX \
             ./ "${DEPLOY_USER}@${DEPLOY_HOST}:./"
