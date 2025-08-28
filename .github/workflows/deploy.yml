@@ -58,10 +58,9 @@ jobs:
       - name: Rsync to restricted directory via CF Tunnel
         run: |
           # We rsync relative to the rrsync jail root; destination " ./ "
-          rsync -az --delete \
-            -n -i \
-            --exclude '.git' --exclude '.github' \
-            --chmod=ug=rwX,o=rX \
+          rsync -azO --delete \
+            --no-perms --no-owner --no-group \
+            --exclude '.git' --exclude '.github' --exclude 'README.md' \
             ./ "${DEPLOY_USER}@${DEPLOY_HOST}:./"
         # rrsync on the VPS restricts to /home/mconverter/server/mconverter-blog
 
