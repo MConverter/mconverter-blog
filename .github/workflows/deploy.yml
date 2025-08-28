@@ -1,0 +1,77 @@
+name: Deploy blog to VPS via CF Tunnel
+
+on:
+  push:
+    branches: [ "release" ]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: release-blog-deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      DEPLOY_HOST: ssh-blog.mconverter.eu
+      DEPLOY_USER: deployer
+      # cloudflared picks these up automatically:
+      TUNNEL_SERVICE_TOKEN_ID: ${{ secrets.CF_TUNNEL_SERVICE_TOKEN_ID }}
+      TUNNEL_SERVICE_TOKEN_SECRET: ${{ secrets.CF_TUNNEL_SERVICE_TOKEN_SECRET }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create deployment.txt with commit ID
+        run: |
+          echo "${GITHUB_SHA}" > deployment.txt
+
+      - name: Install rsync & cloudflared (client)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y rsync
+          sudo curl -L -o /usr/local/bin/cloudflared \
+            https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64
+          sudo chmod +x /usr/local/bin/cloudflared
+          cloudflared --version
+
+      - name: Configure SSH for ProxyCommand via cloudflared
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          printf "%s\n" "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/known_hosts
+          cat > ~/.ssh/config <<'CFG'
+          Host ssh-blog.mconverter.eu
+            User deployer
+            # Proxy all SSH over Cloudflare Access / Tunnel
+            ProxyCommand /usr/local/bin/cloudflared access ssh --hostname %h
+            StrictHostKeyChecking yes
+            UserKnownHostsFile ~/.ssh/known_hosts
+          CFG
+          chmod 600 ~/.ssh/config
+
+      - name: Rsync to restricted directory via CF Tunnel
+        run: |
+          # We rsync relative to the rrsync jail root; destination " ./ "
+          rsync -az --delete \
+            -n -i \
+            --exclude '.git' --exclude '.github' \
+            --chmod=ug=rwX,o=rX \
+            -e "ssh -F ~/.ssh/config" \
+            ./ "${DEPLOY_USER}@${DEPLOY_HOST}:./"
+        # rrsync on the VPS restricts to /home/mconverter/server/mconverter-blog
+
+      - name: Purge Cloudflare cache for /blog
+        env:
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: |
+          curl -sS -X POST "https://api.cloudflare.com/client/v4/zones/${CF_ZONE_ID}/purge_cache" \
+            -H "Authorization: Bearer ${CF_API_TOKEN}" \
+            -H "Content-Type: application/json" \
+            --data '{"prefixes":["mconverter.eu/blog"]}'
