@@ -7,7 +7,7 @@
 This folder contains all blog articles.
 
 File name: matches the URL slug, without the `.md` extension.
- - Example: `my_article.md` -> `https://mconverter.eu/blog/my_article/`
+ - Example: `my-article.md` -> `https://mconverter.eu/blog/my-article/`
 
 #### Front matter
 | Key | Example Value | Required | Description | Notes |
@@ -20,9 +20,9 @@ File name: matches the URL slug, without the `.md` extension.
 | `image_alt` | `Easily convert files online` | ✅ | Alt text for accessibility | The `alt` attribute of the main `<img>` tag |
 | `date_added` | `2022-03-06` | ✅ | When the article was first published | Format: `YYYY-MM-DD` |
 | `date_updated` | `2022-03-06` | ✅ | When the article was last modified | Format: `YYYY-MM-DD`. If the article hasn't been updated yet, the same value as `date_added` should be used. |
-| `author` | `martin_minchev` | ❌ | Author identifier for the article | The identifier must match a file name in the [`authors`](authors) directory, without the `.md` extension. |
-| `categories` | `["video_conversion", "tips_and_tricks"]` | ❌ | Array of category tags for organization | Used for filtering in the grid of articles. The identifier must match a file name in the [`categories`](categories) directory, without the `.md` extension. The categories on the article page are displayed in the order they are listed here. |
-| `aside_cards` | `["50_percent_discount_pro", "mobile_app"]` | ✅ | Array of sidebar card identifiers | Used to display promotional content in the sidebar. The identifier must match a file name in the [`aside_cards`](aside_cards) directory, without the `.md` extension. The cards are displayed in the order they are listed here. |
+| `author` | `martin-minchev` | ❌ | Author identifier for the article | The identifier must match a file name in the [`authors`](authors) directory, without the `.md` extension. |
+| `categories` | `["video-conversion", "tips-and-tricks"]` | ❌ | Array of category tags for organization | Used for filtering in the grid of articles. The identifier must match a file name in the [`categories`](categories) directory, without the `.md` extension. The categories on the article page are displayed in the order they are listed here. |
+| `aside_cards` | `["50-percent-discount-pro", "mobile-app"]` | ✅ | Array of sidebar card identifiers | Used to display promotional content in the sidebar. The identifier must match a file name in the [`aside_cards`](aside_cards) directory, without the `.md` extension. The cards are displayed in the order they are listed here. |
 
 #### Markdown content
 
@@ -63,7 +63,7 @@ This folder contains all authors.
 This folder contains all categories.
 
 File name: matches the URL slug, without the `.md` extension.
- - Example: `my_cat.md` -> `https://mconverter.eu/blog/category/my_cat/`
+ - Example: `my-cat.md` -> `https://mconverter.eu/blog/category/my-cat/`
 
 #### Front matter
 
@@ -83,8 +83,8 @@ The names of subdirectories correspond to the article file names, without the `.
 
 ## Common questions
 
-To hide an article or category page (e.g. while it's still work in progress), make it a hidden file: `.my_article.md`.
+To hide an article or category page (e.g. while it's still work in progress), make it a hidden file: `.my-article.md`.
 
 All Markdown links are do-follow by default. To include a nofollow link, add it as regular HTML instead: `<a href="https://example.com" target="_blank" rel="nofollow noopener">link</a>`
 
-Allowed characters for the file names of articles, categories, etc.: lowercase Latin letters, numbers, and underscores `_`.
+Allowed characters for the file names of articles, categories, etc.: lowercase Latin letters, numbers, and hyphens `-`.

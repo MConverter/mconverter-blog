@@ -6,10 +6,10 @@ image_alt: more about csv format and files
 date_added: 2024-05-14
 date_updated: 2024-05-14
 categories:
-  - document_conversion
+  - document-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 ## What is CSV format?

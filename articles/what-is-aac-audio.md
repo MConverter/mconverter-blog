@@ -6,10 +6,10 @@ image_alt: understanding what is aac audio
 date_added: 2024-04-30
 date_updated: 2024-04-30
 categories:
-  - audio_conversion
+  - audio-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 ## What is an AAC file?

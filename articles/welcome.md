@@ -5,10 +5,10 @@ image: easy_convert_files.webp
 image_alt: Easily convert files online
 date_added: 2022-03-06
 date_updated: 2022-03-06
-author: martin_minchev
+author: martin-minchev
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 In the coming weeks, we're excited to share with you lots of tips and tricks for using MConverter. Also, stay tuned for new features. They'll be announced here first.

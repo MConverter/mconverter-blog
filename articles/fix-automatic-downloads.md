@@ -5,13 +5,13 @@ image: automatic_downloads_mac.jpg
 image_alt: Automatic file downloads settings in Safari on Mac
 date_added: 2022-07-05
 date_updated: 2024-01-19
-author: martin_minchev
+author: martin-minchev
 categories:
   - help
   - technical
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 MConverter has a [setting](#settings) to automatically download your files once they have finished converting. However, browser policies and restrictions may prevent it from working by default. In this article, we have compiled a list of solutions to fix this issue.

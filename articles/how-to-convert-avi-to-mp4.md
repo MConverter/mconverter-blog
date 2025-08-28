@@ -6,11 +6,11 @@ image_alt: Easily convert files online
 date_added: 2024-04-09
 date_updated: 2024-04-09
 categories:
-  - video_conversion
-  - tips_and_tricks
+  - video-conversion
+  - tips-and-tricks
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 Converting a file from one format to another can be challenging for people. The problem becomes more pertinent when you do not know which online tools to use. But, all the doubts and reservations related to file conversions come to an end, as we will explore the ins and outs of an .avi file and how to convert it into MP4. Sounds interesting? Let’s get started!

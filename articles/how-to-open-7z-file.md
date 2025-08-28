@@ -6,10 +6,10 @@ image_alt: online archive converter tool
 date_added: 2024-06-11
 date_updated: 2024-06-11
 categories:
-  - archive_conversion
+  - archive-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 Opening a 7z file is a simple process, but it requires a special software or online tool such as a converter to quickly and correctly extract the files without damaging any of the compressed contents. In this article we will help you learn how you can open these files in different systems.    

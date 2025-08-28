@@ -6,10 +6,10 @@ image_alt: converting avif to jpg online
 date_added: 2024-05-07
 date_updated: 2024-05-07
 categories:
-  - image_conversion
+  - image-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 ## What is an AVIF file?

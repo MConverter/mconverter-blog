@@ -5,13 +5,13 @@ image: web_app_open_in_browser.webp
 image_alt: Screenshot of iPhone showing that “MConverter” will open in your default browser from now on
 date_added: 2024-02-23
 date_updated: 2024-03-06
-author: martin_minchev
+author: martin-minchev
 categories:
   - help
   - technical
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 *Thanks to a potential [formal investigation](https://www.ft.com/content/d2f7328c-5851-4f16-8f8d-93f0098b6adc) by the European Commission and an [open letter](https://letter.open-web-advocacy.org/) to Tim Cook, Apple has reversed its decision to disable installable web apps in the EU.*

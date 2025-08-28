@@ -6,10 +6,10 @@ image_alt: online image converter tool
 date_added: 2024-06-04
 date_updated: 2024-06-04
 categories:
-  - image_conversion
+  - image-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 The process of converting BMP files into PDF ones is chosen by people for the advantages it provides. Through this process, the image files become much more versatile, making their usage that much simpler, especially if you wish to share them with others. Here, we will check how you can convert the BMP file type into PDF along with other details about them. 

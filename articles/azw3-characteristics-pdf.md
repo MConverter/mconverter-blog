@@ -6,10 +6,10 @@ image_alt: Kindle ebook reader for AZW3 and PDF
 date_added: 2024-07-16
 date_updated: 2024-07-16
 categories:
-  - ebook_conversion
+  - ebook-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 A file is a buzzword that we encounter in our everyday lives. But, what exactly is a file and what are its compositions? For starters, a file is a fundamental bedrock of the computing experience. But, intrinsically speaking, it is a collection of bits (zeroes and ones) arranged in a pattern that an application understands. But, one of the most integral components of a file is its format. 

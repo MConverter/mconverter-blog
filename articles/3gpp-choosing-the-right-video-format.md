@@ -6,10 +6,10 @@ image_alt: online video converter
 date_added: 2024-05-21
 date_updated: 2024-05-21
 categories:
-  - video_conversion
+  - video-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 ## What is 3GPP file format?
