@@ -65,6 +65,10 @@ jobs:
             ./ "${DEPLOY_USER}@${DEPLOY_HOST}:./"
         # rrsync on the VPS restricts to /home/mconverter/server/mconverter-blog
 
+      - name: Test echo
+        run: |
+          ssh "${DEPLOY_USER}@${DEPLOY_HOST}" "echo testing; pwd; ls -la;"
+
       - name: Purge Cloudflare cache for /blog
         env:
           CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
