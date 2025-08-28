@@ -59,15 +59,10 @@ jobs:
         run: |
           # We rsync relative to the rrsync jail root; destination " ./ "
           rsync -az --delete \
-            -n -i \
-            --exclude '.git' --exclude '.github' \
+            --exclude '.git' --exclude '.github' --exclude 'README.md' \
             --chmod=ug=rwX,o=rX \
             ./ "${DEPLOY_USER}@${DEPLOY_HOST}:./"
         # rrsync on the VPS restricts to /home/mconverter/server/mconverter-blog
-
-      - name: Test echo
-        run: |
-          ssh "${DEPLOY_USER}@${DEPLOY_HOST}" "echo testing; pwd; ls -la;"
 
       - name: Purge Cloudflare cache for /blog
         env:
