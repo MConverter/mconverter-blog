@@ -62,7 +62,6 @@ jobs:
             -n -i \
             --exclude '.git' --exclude '.github' \
             --chmod=ug=rwX,o=rX \
-            -e "ssh -F ~/.ssh/config" \
             ./ "${DEPLOY_USER}@${DEPLOY_HOST}:./"
         # rrsync on the VPS restricts to /home/mconverter/server/mconverter-blog
 
