@@ -27,7 +27,7 @@ jobs:
 
       - name: Create deployment.txt with commit ID
         run: |
-          echo "${GITHUB_SHA}" > deployment.txt
+          echo -n "${GITHUB_SHA}" > deployment.txt
 
       - name: Install rsync & cloudflared (client)
         run: |
