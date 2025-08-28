@@ -6,10 +6,10 @@ image_alt: convert 3gp to mp4 online
 date_added: 2024-04-23
 date_updated: 2024-04-23
 categories:
-  - video_conversion
+  - video-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 ## What is a 3GP file?

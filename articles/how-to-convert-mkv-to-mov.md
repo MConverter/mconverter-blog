@@ -6,10 +6,10 @@ image_alt: Converting MKV to MOV on a laptop
 date_added: 2024-11-05
 date_updated: 2024-11-05
 categories:
-  - video_conversion
+  - video-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 Have you ever found yourself with an MKV file that just won't play on your device or in your favorite editing software? Frustrating, right? 
@@ -52,7 +52,7 @@ Both MKV and MOV can deliver high-quality video, but the way they handle this ca
 
 ## 3 Ways to Change MKV to MOV
 
-To start with, you can [convert online](https://mconverter.eu/blog/files_and_formats_to_convert_with_online_converter/), use your mobile device, download a converter program, and even use a media player to change a video file format. However, not all methods are efficient, so here are 3 recommended ways:
+To start with, you can [convert online](https://mconverter.eu/blog/files-and-formats-to-convert-with-online-converter/), use your mobile device, download a converter program, and even use a media player to change a video file format. However, not all methods are efficient, so here are 3 recommended ways:
 
 ### 1. Convert MKV to MOV with MConverter
 

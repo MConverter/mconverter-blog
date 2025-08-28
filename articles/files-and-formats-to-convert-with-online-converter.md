@@ -6,10 +6,10 @@ image_alt: online converter files and formats
 date_added: 2024-05-28
 date_updated: 2024-05-28
 categories:
-  - tips_and_tricks
+  - tips-and-tricks
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 We hardly have time to spend hours searching for an efficient and quick converting tool or application to convert one file format into another.

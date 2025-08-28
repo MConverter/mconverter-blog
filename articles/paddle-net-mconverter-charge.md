@@ -8,8 +8,8 @@ date_updated: 2025-06-25
 categories:
   - help
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 If you see a "**PADDLE.NET\* MCONVERTER**" charge on your card, it means you have an active subscription for MConverter Plus or Pro, or that you have purchased a One-Day Pass. If you've paid with PayPal, it will appear as "**PAYPAL \*PADDLE.NET**" instead.
@@ -20,7 +20,7 @@ Paddle helps us with processing transactions securely. You can learn more about 
 If you're having any issues with using our product, please [contact us](#legal) and we'll help you as quickly as possible.
 
 ## Cancelling Your Subscription
-If you no longer use your MConverter subscription, or if you don't remember the email for your MConverter account, see [how to cancel your subscription](https://mconverter.eu/blog/cancel_premium/).
+If you no longer use your MConverter subscription, or if you don't remember the email for your MConverter account, see [how to cancel your subscription](https://mconverter.eu/blog/cancel-premium/).
 
 ## Requesting a Refund
 If you need a refund, please [contact us](#legal) and we'll respond as soon as possible.

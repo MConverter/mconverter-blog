@@ -6,10 +6,10 @@ image_alt: Video players and converters
 date_added: 2024-06-27
 date_updated: 2024-06-27
 categories:
-  - video_conversion
+  - video-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 A file format gauges the structure and type of data stored in a file. It organizes a wide range of unprocessed data into an organized manner for convenient storing, processing, and utilization.  There are an array of file formats that store and retrieve data efficiently. Some file format types are more common, such as .XML, JPG, etc, whereas others like FLV are more obscure. In this blog, we will understand the basics of the FLV format and learn how to open FLV Files in MAC and Windows. So, without further ado, let’s begin!

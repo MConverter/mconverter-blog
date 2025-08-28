@@ -6,11 +6,11 @@ image_alt: Audio equalizer by Hendrik B (Pexels)
 date_added: 2023-02-03
 date_updated: 2023-02-03
 categories:
-  - audio_conversion
-  - tips_and_tricks
+  - audio-conversion
+  - tips-and-tricks
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 ## Why Do We Need to Compress Audio Files Using FLAC?

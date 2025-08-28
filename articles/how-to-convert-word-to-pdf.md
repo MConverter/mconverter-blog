@@ -6,10 +6,10 @@ image_alt: Office laptop
 date_added: 2024-07-09
 date_updated: 2024-07-09
 categories:
-  - document_conversion
+  - document-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 MS Word, a processor developed by Microsoft, is one of the most widely used programs of the Microsoft Office Suite. MS Word was created by Charles Simonyi and Richard Brodie - two software engineers in 1983. Fast forward to the present times, Microsoft Word has over 750 million active users and is also something that a lot of Fortune 500 companies rely on. MS Word has several characteristics, one of which is its extension. 

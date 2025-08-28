@@ -6,10 +6,10 @@ image_alt: Mac laptop
 date_added: 2025-04-07
 date_updated: 2025-04-07
 categories:
-  - video_conversion
+  - video-conversion
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 The MP4 (MPEG-4 Part 14) file format is one of the most common digital multimedia formats used today. It is known best for its high-quality compression and compatibility with various devices and operating systems. 

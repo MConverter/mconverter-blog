@@ -5,12 +5,12 @@ image: mconverter_share_android_static.webp
 image_alt: MConverter in Android's Share Sheet
 date_added: 2022-03-16
 date_updated: 2022-07-05
-author: martin_minchev
+author: martin-minchev
 categories:
   - technical
 aside_cards:
-  - 50_percent_discount_pro
-  - mobile_app
+  - 50-percent-discount-pro
+  - mobile-app
 ---
 
 *This article originally appeared on our Medium blog.*
