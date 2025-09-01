@@ -6,8 +6,7 @@ image: shortvideo.webp
 image_alt: Short-form video statistics 2025
 date_added: 2025-09-01
 date_updated: 2025-09-01
-authors:
-  -martin-minchev
+author: mihael-trifonov
 categories:
   - trends-and-insights
 aside_cards:

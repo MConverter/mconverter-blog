@@ -6,8 +6,7 @@ image: youtube.webp
 image_alt: YouTube video upload statistics
 date_added: 2025-09-01
 date_updated: 2025-09-01
-authors:
-  -martin-minchev
+author: mihael-trifonov
 categories:
   - trends-and-insights
 aside_cards:
