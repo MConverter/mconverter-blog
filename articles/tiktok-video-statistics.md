@@ -9,13 +9,11 @@ date_updated: 2025-09-01
 authors:
   -martin-minchev
 categories:
-  -trends-and-insights
+  - trends-and-insights
 aside_cards:
   - 50-percent-discount-pro
   - mobile-app
 ---
-
-# **150+ TikTok Video Statistics 2025: Engagement, Views & Hashtag Reach**
 
 TikTok’s influence on digital culture is no longer experimental, but a measurable force driving billions of daily interactions. In 2025, the platform gets over 1.6 billion monthly active users, with average daily watch times exceeding one hour and top hashtags garnering tens of billions of views. 
 

@@ -9,13 +9,11 @@ date_updated: 2025-09-01
 authors:
   -martin-minchev
 categories:
-  -trends-and-insights
+  - trends-and-insights
 aside_cards:
   - 50-percent-discount-pro
   - mobile-app
 ---
-
-# **60+ LinkedIn Video Engagement Statistics 2025**
 
 LinkedIn video posts generate three times more engagement than text-only updates, yet fewer than 20 percent of B2B marketers consistently use them. On a platform designed for professional attention, that gap represents an untapped competitive advantage. 
 

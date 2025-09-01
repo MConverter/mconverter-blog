@@ -9,13 +9,11 @@ date_updated: 2025-09-01
 authors:
   -martin-minchev
 categories:
-  -trends-and-insights
+  - trends-and-insights
 aside_cards:
   - 50-percent-discount-pro
   - mobile-app
 ---
-
-# **100+ Online Video Advertising Statistics: Formats, Budgets & Trends**
 
 Online video ads now command more than 80% of global digital ad spend growth, with formats evolving faster than most brands can adapt. In 2025, the battle for attention is defined by accurate targeting, shoppable creatives, and cross-platform consistency, with data revealing which approaches are most effective. 
 

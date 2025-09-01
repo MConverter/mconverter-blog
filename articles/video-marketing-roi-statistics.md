@@ -9,13 +9,11 @@ date_updated: 2025-09-01
 authors:
   -martin-minchev
 categories:
-  -trends-and-insights
+  - trends-and-insights
 aside_cards:
   - 50-percent-discount-pro
   - mobile-app
 ---
-
-# **80+ Video Marketing ROI Statistics \[2024–2025\]: What Works Now**
 
 Video now accounts for 82% of marketers’ top-performing content, and the numbers behind that dominance are evolving faster than ever. Our curated collection of 80+ ROI statistics from 2024 to mid-2025 reveals real-time shifts such as rising average watch times, platform yield comparisons, conversion multipliers, ad spend efficiencies, and the growing value of short-form formats. 
 

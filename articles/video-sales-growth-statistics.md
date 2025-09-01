@@ -9,13 +9,11 @@ date_updated: 2025-09-01
 authors:
   -martin-minchev
 categories:
-  -trends-and-insights
+  - trends-and-insights
 aside_cards:
   - 50-percent-discount-pro
   - mobile-app
 ---
-
-# **50+ Video Sales Growth Statistics 2025**
 
 Sales powered by video surged by over 30% in 2024, and the trajectory is expected to accelerate in 2025. Fresh industry data reveals more than 50 critical metrics, spanning conversion uplift, watch-through rates, and return on ad spend, that are redefining how brands turn video into revenue. 
 

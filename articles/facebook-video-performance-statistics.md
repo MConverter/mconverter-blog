@@ -9,13 +9,11 @@ date_updated: 2025-09-01
 authors:
   -martin-minchev
 categories:
-  -trends-and-insights
+  - trends-and-insights
 aside_cards:
   - 50-percent-discount-pro
   - mobile-app
 ---
-
-# **100+ Facebook Video Performance Statistics: Engagement, Reach & ROI**
 
 Facebook videos generate 59% more engagement than any other post type, yet most brands still fail to tap into their full potential. In 2025, when algorithms reward watch time and competition for attention is sharper than ever, relying on outdated assumptions can cost reach, revenue, and relevance.
 

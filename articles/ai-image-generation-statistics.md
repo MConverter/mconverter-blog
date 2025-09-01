@@ -9,13 +9,11 @@ date_updated: 2025-09-01
 authors:
   -martin-minchev
 categories:
-  -trends-and-insights
+  - trends-and-insights
 aside_cards:
   - 50-percent-discount-pro
   - mobile-app
 ---
-
-# **100+ AI Image Generation Statistics 2025: Usage, Accuracy & Adoption Trends**
 
 AI image generation tools will have shifted from experimental side projects to core engines driving marketing, design, and brand storytelling. 
 
