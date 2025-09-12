@@ -1,10 +1,10 @@
 ---
 title: How to cancel your MConverter subscription
-description: Simple guide for unsubscribing from MConverter Plus and Pro. You'll learn how to stop your subscription from automatically renewing.
+description: Simple guide for unsubscribing from MConverter Plus, Pro, and Max. You'll learn how to stop your subscription from automatically renewing.
 image: mconverter_premium.webp
 image_alt: MConverter Premium badge
 date_added: 2022-07-04
-date_updated: 2025-03-23
+date_updated: 2025-09-16
 categories:
   - help
 aside_cards:
@@ -15,7 +15,7 @@ aside_cards:
 At MConverter, we have made it easy for you to cancel your subscription. We do **not** make it purposefully difficult by having you call a phone number and wait, **nor** do we charge early cancellation fees.
 
 To stop your subscription from auto-renewing (i.e. to cancel it), follow these steps:
-1. Go to **[My Account](#account)** after signing in with the account you used to subscribe to MConverter Premium, Plus, or Pro.
+1. Go to **[My Account](#account)** after signing in with the account you used to subscribe to MConverter Premium, Plus, Pro, or Max.
     - On desktop, click on the account icon at the top right corner.
     - On mobile, tap on MENU > MY ACCOUNT or SIGN IN.
 2. Click on the **MANAGE SUBSCRIPTION** button.
