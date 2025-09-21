@@ -22,7 +22,7 @@ File name: matches the URL slug, without the `.md` extension.
 | `date_updated` | `2022-03-06` | ✅ | When the article was last modified | Format: `YYYY-MM-DD`. If the article hasn't been updated yet, the same value as `date_added` should be used. |
 | `author` | `martin-minchev` | ❌ | Author identifier for the article | The identifier must match a file name in the [`authors`](authors) directory, without the `.md` extension. |
 | `categories` | `["video-conversion", "tips-and-tricks"]` | ❌ | Array of category tags for organization | Used for filtering in the grid of articles. The identifier must match a file name in the [`categories`](categories) directory, without the `.md` extension. The categories on the article page are displayed in the order they are listed here. |
-| `aside_cards` | `["50-percent-discount-pro", "mobile-app"]` | ✅ | Array of sidebar card identifiers | Used to display promotional content in the sidebar. The identifier must match a file name in the [`aside_cards`](aside_cards) directory, without the `.md` extension. The cards are displayed in the order they are listed here. |
+| `aside_cards` | `["50-percent-discount-max", "mobile-app"]` | ✅ | Array of sidebar card identifiers | Used to display promotional content in the sidebar. The identifier must match a file name in the [`aside_cards`](aside_cards) directory, without the `.md` extension. The cards are displayed in the order they are listed here. |
 
 #### Markdown content
 

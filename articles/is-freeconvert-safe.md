@@ -10,7 +10,7 @@ author: mihael-trifonov
 categories:
   - help
 aside_cards:
-  - 50-percent-discount-pro
+  - 50-percent-discount-max
   - mobile-app
 ---
 

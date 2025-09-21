@@ -8,7 +8,7 @@ date_updated: 2024-04-30
 categories:
   - audio-conversion
 aside_cards:
-  - 50-percent-discount-pro
+  - 50-percent-discount-max
   - mobile-app
 ---
 

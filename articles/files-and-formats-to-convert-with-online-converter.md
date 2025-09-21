@@ -8,7 +8,7 @@ date_updated: 2024-05-28
 categories:
   - tips-and-tricks
 aside_cards:
-  - 50-percent-discount-pro
+  - 50-percent-discount-max
   - mobile-app
 ---
 

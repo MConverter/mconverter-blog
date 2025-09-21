@@ -9,7 +9,7 @@ categories:
   - audio-conversion
   - tips-and-tricks
 aside_cards:
-  - 50-percent-discount-pro
+  - 50-percent-discount-max
   - mobile-app
 ---
 
