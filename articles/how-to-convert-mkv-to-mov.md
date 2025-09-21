@@ -8,7 +8,7 @@ date_updated: 2024-11-05
 categories:
   - video-conversion
 aside_cards:
-  - 50-percent-discount-pro
+  - 50-percent-discount-max
   - mobile-app
 ---
 

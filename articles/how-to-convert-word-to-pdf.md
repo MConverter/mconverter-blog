@@ -8,7 +8,7 @@ date_updated: 2024-07-09
 categories:
   - document-conversion
 aside_cards:
-  - 50-percent-discount-pro
+  - 50-percent-discount-max
   - mobile-app
 ---
 
