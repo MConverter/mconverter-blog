@@ -25,22 +25,32 @@ Ads can be incredibly pesky while using any kind of app or web-based tool and MC
 
 The paid version of MConverter comes with several add-on features, which can elevate your experience using the app. The free version of the tool enables you to convert only 10 files a day and the maximum compatible file size is 100 MB. However, its paid plans come with plenty of advantages. 
 
-The Plus or Premium plan of MConverter has the following amazing features:
+The Plus plan of MConverter is engineered for casual users and offers the following benefits:
 
 - You can convert 250 files simultaneously 
 - The maximum file size is 1 GB
 - Unlimited conversions
-- Money-back assurance
 - No ads
 - No branding in file names
 - You can use the files on all your devices
 - You can access conversion history
 - You receive quick customer support from a human
 
-Likewise, the Pro version of MConverter is equipped with amazing features, such as:
+The Pro version of MConverter is built for daily power users and equipped with even more robust features:
 
 - Convert 750 files at once
 - The maximum file size is 2 GB
+- Unlimited conversions
+- No ads
+- No branding in file names
+- You can use the files on all your devices
+- You can access conversion history
+- You receive priority human customer support
+
+Ultimately, MConverter Max is designed to handle complex conversion tasks and large files at a massive scale: 
+
+- Convert 1000 files at once
+- The maximum file size is 10 GB
 - Unlimited conversions
 - No ads
 - No branding in file names
