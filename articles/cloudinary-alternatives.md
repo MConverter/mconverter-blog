@@ -8,7 +8,8 @@ date_added: 2025-09-21
 date_updated: 2025-09-21
 author: mihael-trifonov
 categories:
-  - help
+  - image-conversion
+  - video-conversion
 aside_cards:
   - 50-percent-discount-max
   - mobile-app
