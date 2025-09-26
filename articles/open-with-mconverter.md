@@ -4,7 +4,7 @@ description: MConverter can now be used via the right-click menu option to “Op
 image: open_with_mconverter.webp
 image_alt: Right-click context menu on Windows 10, showing MConverter as an option
 date_added: 2023-06-01
-date_updated: 2023-06-01
+date_updated: 2025-09-26
 author: martin-minchev
 categories:
   - tips-and-tricks
@@ -18,7 +18,7 @@ You may have noticed a new app show up in the **“Open with…”** context men
 
 <iframe src="https://www.youtube-nocookie.com/embed/OP9ryr7cgR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This feature works when MConverter is installed via Google Chrome or Microsoft Edge on all major desktop operating systems, including Windows, macOS, Linux, and ChromeOS. The [MConverter app](https://www.microsoft.com/store/productId/9N4F69HXK2LP) from the Microsoft Store is supported as well.
+This feature works when MConverter is installed via Google Chrome or Microsoft Edge on all major desktop operating systems, including Windows, macOS, Linux, and ChromeOS. The [MConverter app](https://apps.microsoft.com/detail/9n4f69hxk2lp?cid=pwa-blog) from the Microsoft Store is supported as well.
 
 ## How to queue multiple files for converting?
 
