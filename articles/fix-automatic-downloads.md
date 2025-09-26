@@ -4,7 +4,7 @@ description: If MConverter doesn't automatically download your converted files, 
 image: automatic_downloads_mac.jpg
 image_alt: Automatic file downloads settings in Safari on Mac
 date_added: 2022-07-05
-date_updated: 2024-01-19
+date_updated: 2025-09-26
 author: martin-minchev
 categories:
   - help
@@ -30,7 +30,7 @@ Follow the instructions below for your default browser.
 
 To find out which is your default browser on Android, go to Settings > Apps > Default apps > Browser app. The steps may differ slightly based on the device manufacturer.
 
-### Using the Windows app from [Microsoft Store](https://www.microsoft.com/store/productId/9N4F69HXK2LP)
+### Using the Windows app from [Microsoft Store](https://apps.microsoft.com/detail/9n4f69hxk2lp?cid=pwa-blog)
 
 Follow the instructions for Microsoft Edge.
 
