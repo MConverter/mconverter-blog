@@ -8,10 +8,7 @@ date_added: 2025-09-30
 date_updated: 2025-09-30
 author: mihael-trifonov
 categories:
-  - video-conversion
-  - image-conversion
-  - audio-conversion
-  - document-conversion
+  - trends-and-insights
 aside_cards:
   - 50-percent-discount-max
   - mobile-app
