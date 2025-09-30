@@ -87,7 +87,7 @@ But when it comes to contracts, financial reports, or any document containing pe
 
 For that kind of work, an offline converter or a service with strict compliance certifications would be the better choice.
 
-You can also explore our Is [iLovePDF Safe? In-Depth Review](https://mconverter.eu/blog/is-ilovepdf-safe/%20) guide 
+You can also explore our Is [iLovePDF Safe? In-Depth Review](https://mconverter.eu/blog/is-ilovepdf-safe/) guide 
 
 ### **AnyConv User Experience**
 
@@ -105,7 +105,7 @@ There is also no real customer support available if you run into a problem, whic
 
 For bigger projects or anything involving sensitive data, I would want more features, better support, and stronger guarantees before relying on it completely!
 
-You can also read our [Is PDF24 Safe: Is It Safe and Reliable in 2025?](https://mconverter.eu/blog/is-pdf24-safe/%20) guide 
+You can also read our [Is PDF24 Safe: Is It Safe and Reliable in 2025?](https://mconverter.eu/blog/is-pdf24-safe/) guide 
 
 ## **AnyConv vs Other Free Online Converters**
 
@@ -145,7 +145,7 @@ Don’t miss our [Is Cloudconvert Safe? Safety Review (+ A Trusted Alternative)]
 
 For anyone looking for the best alternative to AnyConv, I recommend [**MConverter**](https://mconverter.eu/). It keeps the same simplicity that makes AnyConv appealing, but adds stronger privacy protections, faster performance, and more control over your files.
 
-[![MConverter](image9)](https://mconverter.eu/)
+[![MConverter](image9.webp)](https://mconverter.eu/)
 
 **MConverter** encrypts every upload and download, automatically deletes files after processing, and gives you the option to remove them manually if you want full control. The combination makes it much easier to trust when working with important documents, client files, or anything that should not stay online longer than necessary.
 

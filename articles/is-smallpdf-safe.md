@@ -99,7 +99,7 @@ Users who depend on cloud storage for work or personal projects can feel more co
 
 ![image1](image4.webp)
 
-You can also explore our Is [iLovePDF Safe? In-Depth Review](https://mconverter.eu/blog/is-ilovepdf-safe/%20) guide 
+You can also explore our Is [iLovePDF Safe? In-Depth Review](https://mconverter.eu/blog/is-ilovepdf-safe/) guide 
 
 ## **SmallPDF Privacy Policy Explained**
 
@@ -113,7 +113,7 @@ At the same time, it gives users options to request data removal or get details 
 
 While the policy covers the essentials, anyone handling sensitive or regulated data should review it carefully to see if the terms meet the level of confidentiality their work requires.
 
-You can also read our [Is PDF24 Safe: Is It Safe and Reliable in 2025?](https://mconverter.eu/blog/is-pdf24-safe/%20) guide 
+You can also read our [Is PDF24 Safe: Is It Safe and Reliable in 2025?](https://mconverter.eu/blog/is-pdf24-safe/) guide 
 
 ## **SmallPDF Risks and Concerns**
 

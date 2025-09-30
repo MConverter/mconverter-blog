@@ -105,7 +105,7 @@ At the same time, they highlight the **absence of independent security audits** 
 
 Next, I will look at what independent reviews reveal and how iLovePDF’s security approach compares to industry standards.
 
-You can also read our [Is PDF24 Safe: Is It Safe and Reliable in 2025?](https://mconverter.eu/blog/is-pdf24-safe/%20) guide 
+You can also read our [Is PDF24 Safe: Is It Safe and Reliable in 2025?](https://mconverter.eu/blog/is-pdf24-safe/) guide 
 
 ### **Independent Reviews and Audits**
 
