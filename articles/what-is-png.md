@@ -48,11 +48,11 @@ In contrast to formats that trade detail for smaller file sizes, PNG focuses on 
 
 PNG uses **lossless compression**, meaning it reduces file size without deleting any image data. In simple terms, the file becomes smaller, but every pixel remains exactly the same. I like to think of it as packing a suitcase efficiently while keeping every item inside intact.
 
-Lossless compression differs from **JPEG’s lossy approach**, where data is permanently removed to make the file smaller. [JPEG works](https://mconverter.eu/blog/what-is-jpeg/%20) well for photographs, but repeated edits and saves gradually lower image quality. Once a detail is removed, it cannot be restored.
+Lossless compression differs from **JPEG’s lossy approach**, where data is permanently removed to make the file smaller. [JPEG works](https://mconverter.eu/blog/what-is-jpeg/) well for photographs, but repeated edits and saves gradually lower image quality. Once a detail is removed, it cannot be restored.
 
 PNG avoids that problem entirely. All original data stays preserved, allowing me to edit and save a PNG multiple times without any visible degradation. It remains my preferred format for digital art, design assets, and image archiving because every version looks as clean and accurate as the original.
 
-Also Read: [What Is a ZIP File: The Ultimate Guide](https://mconverter.eu/blog/what-is-zip-file/%20) 
+Also Read: [What Is a ZIP File: The Ultimate Guide](https://mconverter.eu/blog/what-is-zip-file/) 
 
 ### **Transparency and Alpha Channel**
 
@@ -98,7 +98,7 @@ PNG handles transparency better than almost any other format. It supports both f
 
 Additionally, I often use PNG for web logos, icons, and overlays because it maintains clean edges and smooth gradients. When working on layered images, I can export each element separately without unwanted outlines or background colors.
 
-Related Article: [What Is MP4: A Guide for Beginners](https://mconverter.eu/blog/what-is-mp4/%20) 
+Related Article: [What Is MP4: A Guide for Beginners](https://mconverter.eu/blog/what-is-mp4/) 
 
 ### **Great for Screenshots and UI Elements**
 

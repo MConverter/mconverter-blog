@@ -28,7 +28,7 @@ I remember the first time I noticed my iPhone saving photos as HEIC instead of J
 
 ![What is HEIC](image2.webp)
 
-The more I learned, the more sense it made. [JPEG had been around since the 90s](https://mconverter.eu/blog/what-is-jpeg/%20) and could no longer keep up with the size and quality of modern images. Every new iPhone camera produced sharper, more detailed photos, but compressing them as JPEG either took up too much space or sacrificed clarity. 
+The more I learned, the more sense it made. [JPEG had been around since the 90s](https://mconverter.eu/blog/what-is-jpeg/) and could no longer keep up with the size and quality of modern images. Every new iPhone camera produced sharper, more detailed photos, but compressing them as JPEG either took up too much space or sacrificed clarity. 
 
 On the other hand, HEIC offered a smarter solution. A single HEIC photo was nearly half the size of a JPEG, yet the sharpness stayed the same.
 
@@ -56,7 +56,7 @@ Convert [HEIC to SVG](https://mconverter.eu/convert/heic/svg/) with MConverter
 
 I first ran into trouble with HEIC when I shared photos with a friend on Windows. The files would not open, and I had to find a workaround. I quickly saw the main drawback of HEIC. Moreover, many platforms and tools are still not ready to support it.
 
-**Compatibility** remains the biggest challenge. Some websites, editing programs, and older devices cannot read HEIC without extra steps. Converting to JPG or [PNG often becomes the only solution](https://mconverter.eu/blog/what-is-png/%20) when you want to share images quickly. 
+**Compatibility** remains the biggest challenge. Some websites, editing programs, and older devices cannot read HEIC without extra steps. Converting to JPG or [PNG often becomes the only solution](https://mconverter.eu/blog/what-is-png/) when you want to share images quickly. 
 
 Even with tools that recognize HEIC, features like metadata handling or batch editing often feel unreliable. The experience changes depending on the program, which can be frustrating if you work with large numbers of photos. Another limitation I noticed is the heavy reliance on Apple’s ecosystem. 
 
