@@ -42,7 +42,7 @@ Before comparing MOV and MP4, I always remind myself that both are excellent for
 
 I use MOV and MP4 regularly, but in different situations. They both come from the same MPEG-4 standard, yet they behave differently. MOV is my go-to for editing and high-quality exports, while MP4 is the practical choice when I need to share or upload videos quickly.
 
-[Convert MOV to Other Formats](https://mconverter.eu/convert/mov/) with MConveter 
+[Convert MOV to Other Formats](https://mconverter.eu/convert/mov/) with MConverter 
 
 ### **Compression and Quality**
 
