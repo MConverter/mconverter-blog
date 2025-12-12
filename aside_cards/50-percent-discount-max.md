@@ -1,20 +1,18 @@
 ---
-heading: Enjoy a 50% Discount
+heading: Get a 50% Discount
 ---
 
-**Starting $16.99 / month**
-
-Unlock MConverter's full potential and most advanced features.
+Unlock MConverter's full potential and most advanced features with our Max plan.
 
 * Unlimited daily conversions
-* 1000-file batch processing
+* Batch processing: 1000 files
 * Convert large 10 GB files
-* Priority human support
+* Customer support by real humans - the developers
 
 <a href="#upgrade" class="not-link" tabindex="-1">
     <button
         class="button raised" style="width:100%"
-        onclick="window.monthly=true;upgrade.setFrequency?.('month')"
+        onclick="window.blogIntroDiscount=true;upgrade.setFrequency?.('month')"
         title="Offer valid for new customers only"
-        >BUY NOW</button>
+        >SUBSCRIBE NOW</button>
 </a>
