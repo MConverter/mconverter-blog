@@ -8,7 +8,7 @@ date_added: 2025-09-30
 date_updated: 2025-09-30
 author: mihael-trifonov
 categories:
-  - trends-and-insights
+  - roundups-comparisons
 aside_cards:
   - 50-percent-discount-max
   - mobile-app
