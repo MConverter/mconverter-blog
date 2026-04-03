@@ -9,7 +9,7 @@ author: vanissia-tzarvenkova
 categories:
   - image-conversion
 aside_cards:
-  - mobile-app
+  - extension-no-malware
   - 50-percent-discount-max
 ---
 
