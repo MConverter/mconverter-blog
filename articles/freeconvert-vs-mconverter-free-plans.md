@@ -1,5 +1,6 @@
 ---
-title: "FreeConvert vs MConverter: Free Plan Comparison"
+title: "FreeConvert vs MConverter: Free Plan Limits"
+meta_title: "FreeConvert vs MConverter: Free Plan Limits in 2026 • File Conversion Blog"
 description: Discover the true cost of FreeConvert, its free conversion capacity and how it compares to MConverter.
 image: is-freeconvert-free.webp
 image_alt: Is FreeConvert really free?
