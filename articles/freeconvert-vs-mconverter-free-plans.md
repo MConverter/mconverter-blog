@@ -67,11 +67,11 @@ Still, this limit is surpassed by MConverter’s batch conversion limit of up to
 
 Speed is another major consideration for file converters, especially when you need to use them urgently. When I tried batch converting 10 small 8KB files, FreeConvert took about 13 seconds. That is 1.3 seconds per file, which is a good speed compared to the 1.7 seconds that MConverter needed.
 
-**TODO video**
+<iframe src="https://www.youtube-nocookie.com/embed/LBe-s2ifn8E?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 However, when I increased the file size to 14MB, the results were different. It is important to mention that the conversion process usually has 2 stages - uploading and conversion, which are most noticeable when working with larger files. FreeConvert needed 1 minute, out of which 51 seconds was the actual conversion. MConverter, on the other hand, took only 36 seconds, out of which 10 seconds were the actual conversion.
 
-**TODO video**
+<iframe src="https://www.youtube-nocookie.com/embed/l2NcOLkVuEM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Uploads are dependent on my internet speed, so the more objectively comparable part is the conversion processing time. Therefore, MConverter’s free version is much faster for larger files compared to FreeConvert (10 seconds vs 51 seconds, respectively).
 
@@ -79,7 +79,7 @@ Uploads are dependent on my internet speed, so the more objectively comparable p
 
 FreeConvert is very upfront about their generous file size limit of 1GB, equal to only a handful of other well-known converters. It is a handy tool for users who need to convert a maximum of 4-5 large files per day. Just keep in mind that heavy conversions tend to take a long time, in my case, 8 minutes 34 seconds for 1 file of just below 1GB.
 
-**TODO video**
+<iframe src="https://www.youtube-nocookie.com/embed/vNMS79Wqfyw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Your request will also be denied if FreeConvert needs more than 5 minutes to convert a certain file, as it happened during my test:
 
