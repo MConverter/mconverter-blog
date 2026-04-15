@@ -17,7 +17,7 @@ aside_cards:
 
 The Web Share Target API, part of Chromium’s Project Fugu to expand the web capabilities, has opened a new entry point for returning visitors of the MConverter PWA. Instead of having to first open the PWA and then choose files through the boring file picker, users can directly share a file for converting from another app, such as a file manager. See the demo (or [try it yourself](https://mconverter.eu)):
 
-<iframe src="https://www.youtube-nocookie.com/embed/TyClSRvqQcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/TyClSRvqQcU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Once installed (or added to the home screen), the MConverter PWA shows up as a native app*
 
