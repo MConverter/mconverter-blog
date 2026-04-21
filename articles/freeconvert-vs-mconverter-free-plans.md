@@ -35,8 +35,8 @@ When you open FreeConvert’s front page, you will notice that they never actual
 Only after looking it up on their Pricing page did I see that the free daily limit they claim to offer is 20 “conversion minutes”. Bear in mind this is not the same as 20 conversions since, by their definition, a conversion minute measures “how long it takes to convert your files on our servers”, with a limit of 5 conversion minutes per file. So, if it takes more than a minute, it will use up multiple of your minutes.
 
 ![FreeConvert Free FAQ](freeconvert-faq.webp)
-
 ![FreeConvert Conversion Minutes](freeconvert-conversion-minutes.webp)
+*FAQs from FreeConvert*
 
 To test the actual limit, I tried to convert 20 files, each only 8 KB, so it should take only a few seconds. Surprisingly, I was only allowed to convert 10 files before running out of free conversions for the day and being requested to upgrade to a paid plan:
 
@@ -45,6 +45,7 @@ To test the actual limit, I tried to convert 20 files, each only 8 KB, so it sho
 From there, FreeConvert’s true free daily limit only got more confusing. By clicking on the “Unlimited Operations / Day” link on their paid plans on the Pricing page, I discovered that there is actually a third concept at play, in addition to the “file conversion” and “file conversion minutes” limits. It’s called “operations” and even with the 20 free daily conversion minutes, the maximum free daily operations offered by FreeConvert are actually 10. So, in reality, FreeConvert only offers 10 free conversions per day:
 
 ![FreeConvert 10 operations limit](freeconvert-operations-limit.webp)
+*The somewhat hidden explanation of “operations”*
 
 Having these different concepts in different areas of their website creates a confusing and potentially misleading perception of FreeConvert’s true free limit. At least they offer a more straightforward description of their free plan when addressing negative reviews from disappointed users:
 
@@ -85,6 +86,7 @@ FreeConvert is very upfront about their generous file size limit of 1GB, equal t
 Your request will also be denied if FreeConvert needs more than 5 minutes to convert a certain file, as it happened during my test:
 
 ![FreeConvert conversion time limit](freeconvert-time-limit.webp)
+*Conversions get stopped after 5 minutes of processing*
 
 As large files often take a long time to convert, in reality, the 1GB free limit is not particularly usable. It’s more of a marketing headline than a genuinely usable limit.
 
