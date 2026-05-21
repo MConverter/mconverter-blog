@@ -2,7 +2,7 @@
 title: Major improvements to most file conversions
 description: "We’ve just rolled out a massive under-the-hood update that improves the quality of many conversions, while also adding new ones."
 image: major-update.webp
-image_alt: Examples of improvements to MConverter
+image_alt: Major MConverter update
 date_added: 2026-05-21
 date_updated: 2026-05-21
 author: martin-minchev
