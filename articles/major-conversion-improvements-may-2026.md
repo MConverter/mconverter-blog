@@ -13,7 +13,7 @@ aside_cards:
 
 I’m excited to announce a big update to our conversion engine that’s just been released to all [PWA](https://mconverter.eu/) and [MConverter API](https://dev.mconverter.eu/) users.
 
-Tons of bugs have been fixed and improvements have been made to pretty much all supported formats. Some noteworthy improvements include:
+Tons of bugs have been fixed and improvements have been made to pretty much all supported formats. Some noteworthy changes include:
 
 * Creating animated JPEG XL (JXL) images is now supported. They can be converted from all video formats, animated GIF and WebP, as well as vice-versa.  
 * Easily export all image [frames from animated AVIF](https://mconverter.eu/convert/avif/png/) files. You can get them as a sorted ZIP of PNGs, for example, or [as layers in a PSD](https://mconverter.eu/convert/avif/psd/) file. AVIF animations can also be [exported to pages in a PDF](https://mconverter.eu/convert/avif/pdf/).  
