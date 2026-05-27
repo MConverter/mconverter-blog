@@ -2,9 +2,9 @@
 title: Major improvements to most file conversions
 description: "We’ve just rolled out a massive under-the-hood update that improves the quality of many conversions, while also adding new ones."
 image: major-update.webp
-image_alt: Major MConverter update
+image_alt: Major MConverter conversion engine update
 date_added: 2026-05-21
-date_updated: 2026-05-21
+date_updated: 2026-05-27
 author: martin-minchev
 aside_cards:
   - 50-percent-discount-max
@@ -28,7 +28,7 @@ Tons of bugs have been fixed and improvements have been made to pretty much all 
 * Fixed an error impacting videos with a reserved color space.  
 * ...and many others.
 
-As always, each format has been tested in an automated way, but also manually by a human reviewer to ensure the most accurate results. While AI automations can be cool, they’re inherently prone to mistakes and hallucinations. For this reason, unlike some competitors, we have **not** reduced the importance of the human element in the process.
+As always, each format has been tested in an automated way, but also manually by a human reviewer to ensure the most accurate results. While automations with artificial intelligence can be cool, they’re inherently prone to mistakes and hallucinations. For this reason, unlike some competitors, we have **not** reduced the importance of the human element in the process.
 
 Nonetheless, if we’ve missed anything and you’re experiencing an issue, please [let us know](#legal) and we’ll gladly help.
 
