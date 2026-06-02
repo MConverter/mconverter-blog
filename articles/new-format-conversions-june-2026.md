@@ -6,6 +6,8 @@ image_alt: KEPUB and Markdown updates to MConverter
 date_added: 2026-06-02
 date_updated: 2026-06-02
 author: martin-minchev
+categories:
+  - updates
 aside_cards:
   - 50-percent-discount-max
   - mobile-app

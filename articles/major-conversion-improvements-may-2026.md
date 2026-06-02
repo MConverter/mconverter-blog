@@ -6,6 +6,8 @@ image_alt: Major MConverter conversion engine update
 date_added: 2026-05-21
 date_updated: 2026-05-27
 author: martin-minchev
+categories:
+  - updates
 aside_cards:
   - 50-percent-discount-max
   - mobile-app
