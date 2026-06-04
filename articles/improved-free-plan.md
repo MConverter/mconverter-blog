@@ -6,6 +6,8 @@ image_alt: Table of improvements to the MConverter Free Plan
 date_added: 2026-02-20
 date_updated: 2026-02-20
 author: martin-minchev
+categories:
+  - updates
 aside_cards:
   - 50-percent-discount-max
   - mobile-app
