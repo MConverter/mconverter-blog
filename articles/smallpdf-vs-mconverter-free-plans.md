@@ -120,7 +120,7 @@ PDF compression tools let you specify how much the file size should be reduced, 
 
 ![SmallPDF offers Basic compression for free while other levels require Pro](smallpdf-compression-levels-free-vs-pro.webp)
 
-With MConverter, though, you can [choose between all three PDF compression strengths for free](https://mconverter.eu/convert/pdf/tiny.pdf/#faq): **Basic**, **Strong**, and **Extreme**. This freedom gives you more flexibility and lets you decide if you prefer preserving very fine details, or if you absolutely need to get that PDF under 10MB so that you can email it. All for free.
+With MConverter, though, you can [choose between all three PDF compression strengths for free](https://mconverter.eu/convert/pdf/tiny.pdf/#faq): **Basic**, **Strong**, and **Extreme**. This freedom gives you more flexibility and lets you decide if you prefer preserving very fine details, or if you absolutely need to get that PDF under 10 MB so that you can email it. All for free.
 
 ## Speed
 
@@ -130,15 +130,15 @@ Before discussing the 10 MB file, it is important to remember that file conversi
 
 ## File Size Limits
 
-You can probably already guess that the file size limit of SmallPDF was not disclosed either. I attempted to compress a 100MB PDF, only to find out the limit is 15MB. Even though that is a decent size limit for a PDF, people usually compress their files exactly because they go way over the desired size for a PDF by like 50MB or even 100MB. Unfortunately, SmallPDF’s size limit is not meant to accommodate such needs.
+You can probably already guess that the file size limit of SmallPDF was not disclosed either. I attempted to compress a 100 MB PDF, only to find out the limit is 15 MB. Even though that is a decent size limit for a PDF, people usually compress their files exactly because they go way over the desired size for a PDF by like 50 MB or even 100 MB. Unfortunately, SmallPDF’s size limit is not meant to accommodate such needs.
 
 ![SmallPDF rejects files larger than 15 MB on the free plan](smallpdf-15-mb-file-size-limit.webp)
 
-MConverter, on the other hand, can convert or compress files up to 100MB for free. This makes it a handy tool for reducing the size of actually heavy files.
+MConverter, on the other hand, can convert or compress files up to 100 MB for free. This makes it a handy tool for reducing the size of actually heavy files.
 
 ## PDF Conversion
 
-With a focus on file compression, SmallPDF only offers 5 file formats to convert PDFs to. Two of which are the image formats JPG and PNG. However, when choosing to convert to an image I always automatically received JPG images without the option to choose PNG. This potential error reduces the available conversion formats to 4\. So while it does offer the basics, it cannot really be considered a full-blown file converter.
+With a focus on file compression, SmallPDF only offers 5 file formats to convert PDFs to. Two of which are the image formats JPG and PNG. However, when choosing to convert to an image I always automatically received JPG images without the option to choose PNG. This potential error reduces the available conversion formats to 4. So while it does offer the basics, it cannot really be considered a full-blown file converter.
 
 <iframe src="https://www.youtube-nocookie.com/embed/DWO8iTHEMRQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -146,13 +146,13 @@ If you need to convert to a more specific or rare format, you may prefer MConver
 
 ![PDF output formats available in MConverter](mconverter-pdf-output-formats.webp)
 
-## Subscriptions And Refunds
+## Subscriptions & Refunds
 
-Due to SmallPDF’s limited free version of only 2 conversions or compressions per 24 hours, you may be tempted by their 7-day free trial. However, that requires you to make an account and fill out your credit card details. As can be seen in reviews from dissatisfied customers, this could lead to unexpected charges for a yearly plan if you forget to cancel your trial in time.
+Due to SmallPDF’s limited free version of only 2 conversions or compressions per 24 hours, you may be tempted by their 7-day free trial. However, that requires you to make an account and fill out your credit card details. As can be seen in reviews from dissatisfied customers, this could allegedly lead to unexpected charges for a yearly plan if you forget to cancel your trial in time.
 
 <a href="https://www.trustpilot.com/reviews/6a33831dd125b1ebef44f603" target="_blank" rel="nofollow noopener">![SmallPDF review reporting an unexpected annual charge after the free trial](smallpdf-unexpected-annual-charge-review.webp)</a>
 
-Other SmallPDF customers complain that even after cancelling their free trials and subscriptions, unauthorized charges continue:
+Other SmallPDF customers complain that even after cancelling their free trials and subscriptions, unauthorized charges allegedly continue:
 
 <a href="https://www.trustpilot.com/reviews/6a6e51b8ca9a85fd739f54e4" target="_blank" rel="nofollow noopener">![SmallPDF review reporting another payment after cancellation](smallpdf-charged-after-cancellation-review.webp)</a>
 
@@ -168,13 +168,15 @@ However, there are multiple customer complaints about refused refunds, even when
 
 <a href="https://www.trustpilot.com/reviews/6a6b66c33dde940b33aeba5e" target="_blank" rel="nofollow noopener">![SmallPDF review reporting an unauthorized subscription charge and difficulty getting a refund](smallpdf-unauthorized-subscription-charge-review.webp)</a>
 
+The abovementioned reviews are just a few examples from the last couple of months. There are more reports of similar experiences, which is why it is important to be careful when signing up for SmallPDF’s free trial.
+
 For comparison, MConverter has a strictly guaranteed [refund policy](#refunds), available for all paid plans. As long as you haven’t used the product excessively, all refund requests are honoured. Note that on a case-by-case basis, MConverter also grants refunds in additional cases to those in the refund policy.
 
 ## Summary
 
 SmallPDF’s free limit is 2 files per 24 hours, with no batch processing, and their 7-day free trial could bring you an unexpected paid yearly subscription. Contrast that with MConverter’s 15 free daily conversions and the ability to convert up to 8 files at once.
 
-SmallPDF also only offers Basic compression to its free users that reduces file size by 90-96%. That outdoes MConverter’s Basic and Strong compression of up to 75%, but is equal to its Extreme compression. However, SmallPDF’s high compression rate becomes useless due to the free plan’s size limit of 15MB, which is significantly less than MConverter’s 100MB. With a larger focus on file conversion, MConverter offers a wider variety of formats while SmallPDF only offers 5 file formats to convert PDF to (with PNG being impossible to select).
+SmallPDF also only offers Basic compression to its free users that reduces file size by 90-96%. That outdoes MConverter’s Basic and Strong compression of up to 75%, but is equal to its Extreme compression. However, SmallPDF’s high compression rate becomes useless due to the free plan’s size limit of 15 MB, which is significantly less than MConverter’s 100 MB. With a larger focus on file conversion, MConverter offers a wider variety of formats while SmallPDF only offers 5 file formats to convert PDF to (with PNG being impossible to select).
 
 In conclusion, while SmallPDF offers high quality compression and conversion to all its users, it is outdone by MConverter when it comes to free daily limits, file size limits and variety of formats to convert to.
 
