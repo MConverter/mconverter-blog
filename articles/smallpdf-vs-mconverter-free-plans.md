@@ -16,6 +16,55 @@ aside_cards:
 
 The first result you get when searching for a “PDF compressor” is usually SmallPDF. Being the top result and not looking like A.I. slop does make this website appear reliable. But how useful is it really for its free users? To test this, I compressed and converted two files of 300 KB and 10 MB to compare SmallPDF’s capabilities against MConverter.
 
+## Quick Comparison
+
+Here is everything I discovered in short:
+
+<table>
+    <tr>
+        <th>Free Plan on:</th>
+        <th>SmallPDF</th>
+        <th>MConverter</th>
+    </tr>
+    <tr>
+        <th>Compression Strength</th>
+        <td>Basic</td>
+        <td>Basic, Strong, Extreme</td>
+    </tr>
+    <tr>
+        <th>Daily Limit</th>
+        <td>2 files</td>
+        <td>15 files</td>
+    </tr>
+    <tr>
+        <th>Process Multiple Files</th>
+        <td>No</td>
+        <td>Yes, up to 8 files</td>
+    </tr>
+    <tr>
+        <th>Upload Size Limit</th>
+        <td>15 MB</td>
+        <td>100 MB</td>
+    </tr>
+    <tr>
+        <th>Supported Conversion Formats</th>
+        <td>Very few</td>
+        <td>A lot: Images, Documents, E-books</td>
+    </tr>
+    <tr>
+        <th>Subscriptions</th>
+        <td>Free trial that often ends in unauthorized annual charges</td>
+        <td>No misleading trials: Subscriptions start only with your express consent</td>
+    </tr>
+    <tr>
+        <th>Refunds</th>
+        <td>On a case-by-case basis, usually refused</td>
+        <td>Guaranteed refund policy</td>
+    </tr>
+</table>
+
+Now, let’s go into the details of each of these points.
+
 ## Daily Limits
 
 Before using SmallPDF, there is no way to tell what their free daily limit is. To find out, I started compressing PDFs one by one and was surprised to find the free limit is only 2 files per 24 hours. While that is disappointing, the process of finding out that limit was even more annoying to me. The website allows you to upload and convert/compress a third file, but then puts a paywall when you try to download it. At this point, your only options are paying for Pro, signing up for the 7-day free trial, or waiting until the next day to process two more files.
@@ -33,6 +82,14 @@ Batch conversion is the perfect feature for converting multiple files without co
 Contrary to what SmallPDF offers, all MConverter users can enjoy a free batch conversion limit of up to 8 files. A handy feature, especially when combined with the 15 free conversions per day.
 
 ![Batch-converting eight files with MConverter](mconverter-batch-conversion-eight-files.webp)
+
+## Compression Levels
+
+PDF compression tools let you specify how much the file size should be reduced, at the expense of quality. The free plan of SmallPDF only lets you select the **Basic** level, while **Moderate** and **Strong** are locked behind a paywall, as is the **Custom** option.
+
+![SmallPDF offers Basic compression for free while other levels require Pro](smallpdf-compression-levels-free-vs-pro.webp)
+
+With MConverter, though, you can [choose between all three PDF compression strengths for free](https://mconverter.eu/convert/pdf/tiny.pdf/#faq): **Basic**, **Strong**, and **Extreme**. This freedom gives you more flexibility and lets you decide if you prefer preserving very fine details, or if you absolutely need to get that PDF under 10 MB so that you can email it. All for free.
 
 ## Compression Results
 
@@ -114,14 +171,6 @@ With MConverter the image quality was preserved during the **Basic** and **Stron
 
 ![MConverter Basic, Strong, and Extreme compression quality comparison](mconverter-compression-quality-comparison.webp)
 
-## Compression Levels
-
-PDF compression tools let you specify how much the file size should be reduced, at the expense of quality. The free plan of SmallPDF only lets you select the **Basic** level, while **Moderate** and **Strong** are locked behind a paywall, as is the **Custom** option.
-
-![SmallPDF offers Basic compression for free while other levels require Pro](smallpdf-compression-levels-free-vs-pro.webp)
-
-With MConverter, though, you can [choose between all three PDF compression strengths for free](https://mconverter.eu/convert/pdf/tiny.pdf/#faq): **Basic**, **Strong**, and **Extreme**. This freedom gives you more flexibility and lets you decide if you prefer preserving very fine details, or if you absolutely need to get that PDF under 10 MB so that you can email it. All for free.
-
 ## Compression Speed
 
 Speed is another major consideration for this type of products, especially when you need to use them urgently. To compress a 300 KB PDF, SmallPDF took about 8 seconds, whereas MConverter took 1 second regardless of the compression level.
@@ -180,43 +229,6 @@ SmallPDF also only offers Basic compression to its free users, whereas MConverte
 
 In conclusion, while SmallPDF offers high quality compression and conversion to all its users, it is outdone by MConverter when it comes to free daily limits, file size limits and variety of formats to convert to.
 
-<table>
-    <tr>
-        <th>Free Plan on:</th>
-        <th>SmallPDF</th>
-        <th>MConverter</th>
-    </tr>
-    <tr>
-        <th>Compression Strength</th>
-        <td>Basic</td>
-        <td>Basic, Strong, Extreme</td>
-    </tr>
-    <tr>
-        <th>Daily Limit</th>
-        <td>2 files</td>
-        <td>15 files</td>
-    </tr>
-    <tr>
-        <th>Process Multiple Files</th>
-        <td>No</td>
-        <td>Yes, up to 8 files</td>
-    </tr>
-    <tr>
-        <th>File Size Limit</th>
-        <td>15 MB</td>
-        <td>100 MB</td>
-    </tr>
-    <tr>
-        <th>Subscriptions</th>
-        <td>Free trial that often ends in unauthorized annual charges</td>
-        <td>No misleading trials: Subscriptions start only with your express consent</td>
-    </tr>
-    <tr>
-        <th>Refunds</th>
-        <td>On a case-by-case basis, usually refused</td>
-        <td>Guaranteed refund policy</td>
-    </tr>
-</table>
 <style>
 table {
     width: 100%;
