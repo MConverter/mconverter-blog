@@ -9,6 +9,7 @@ date_updated: 2026-08-14
 author: vanissia-tzarvenkova
 categories:
   - roundups-comparisons
+  - document-conversion
 aside_cards:
   - 50-percent-discount-max
   - mobile-app
