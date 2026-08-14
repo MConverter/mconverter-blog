@@ -16,7 +16,7 @@ aside_cards:
 
 The first result you get when searching for a “PDF compressor” is usually SmallPDF. Being the top result and not looking like A.I. slop does make this website appear reliable. But how useful is it really for its free users? To test this, I compressed and converted two files of 300 KB and 10 MB to compare SmallPDF’s capabilities against MConverter.
 
-## Free Daily Limit
+## Daily Limits
 
 Before using SmallPDF, there is no way to tell what their free daily limit is. To find out, I started compressing PDFs one by one and was surprised to find the free limit is only 2 files per 24 hours. While that is disappointing, the process of finding out that limit was even more annoying to me. The website allows you to upload and convert/compress a third file, but then puts a paywall when you try to download it. At this point, your only options are paying for Pro, signing up for the 7-day free trial, or waiting until the next day to process two more files.
 
@@ -24,7 +24,7 @@ Before using SmallPDF, there is no way to tell what their free daily limit is. T
 
 Luckily, MConverter offers a significantly larger free daily limit of 15 free conversions per day, no strings attached. Find out more about [MConverter’s free plan here](https://mconverter.eu/blog/improved-free-plan/).
 
-## Batch Conversions
+## Batch Processing
 
 Batch conversion is the perfect feature for converting multiple files without constantly clicking around to process them one by one. Unfortunately, similarly to the hidden free daily limit, there was no information about the batch conversion limit of SmallPDF either. I tried batch converting 4 files only to find out that batch conversion is completely unavailable to free users. You cannot work with multiple files in SmallPDF for free.
 
@@ -34,7 +34,7 @@ Contrary to what SmallPDF offers, all MConverter users can enjoy a free batch co
 
 ![Batch-converting eight files with MConverter](mconverter-batch-conversion-eight-files.webp)
 
-## PDF Compression Quality
+## Compression Results
 
 SmallPDF is most commonly used as a PDF compressor even though it can also be used for converting, merging and splitting PDF files. I decided to do a test compression of 2 PDF files of 300 KB and 10 MB to estimate how much smaller they actually get. The first one was reduced to 13 KB and the second to 198 KB making them about 96% smaller than the original. That test also showed me that only **Basic** compression is available to free users.
 
@@ -114,7 +114,7 @@ With MConverter the image quality was preserved during the **Basic** and **Stron
 
 ![MConverter Basic, Strong, and Extreme compression quality comparison](mconverter-compression-quality-comparison.webp)
 
-## PDF Compression Levels
+## Compression Levels
 
 PDF compression tools let you specify how much the file size should be reduced, at the expense of quality. The free plan of SmallPDF only lets you select the **Basic** level, while **Moderate** and **Strong** are locked behind a paywall, as is the **Custom** option.
 
@@ -122,21 +122,21 @@ PDF compression tools let you specify how much the file size should be reduced, 
 
 With MConverter, though, you can [choose between all three PDF compression strengths for free](https://mconverter.eu/convert/pdf/tiny.pdf/#faq): **Basic**, **Strong**, and **Extreme**. This freedom gives you more flexibility and lets you decide if you prefer preserving very fine details, or if you absolutely need to get that PDF under 10 MB so that you can email it. All for free.
 
-## Speed
+## Compression Speed
 
-Speed is another major consideration for file converters, especially when you need to use them urgently. To compress a 300 KB PDF, SmallPDF took about 8 seconds, whereas MConverter took 1 second regardless of the compression level.
+Speed is another major consideration for this type of products, especially when you need to use them urgently. To compress a 300 KB PDF, SmallPDF took about 8 seconds, whereas MConverter took 1 second regardless of the compression level.
 
-Before discussing the 10 MB file, it is important to remember that file conversion consists of 2 parts \- uploading and compressing, and this difference is most noticeable with larger files. While the uploading is dependent on your internet speed, the compression speed is up to the website we use. For more objective results, I will only present the time spent on the actual compression. Both SmallPDF and MConverter needed 4 seconds to complete the Basic compression of the 10 MB PDF. However, MConverter needed 18 seconds to complete the Strong compression and 17 seconds to complete the Extreme compression.
+Before discussing the 10 MB file, it is important to remember that file conversion consists of 2 parts - uploading and compressing, and this difference is most noticeable with larger files. While the uploading is dependent on your internet speed, the compression speed is up to the website we use. For more objective results, I will only present the time spent on the actual compression. Both SmallPDF and MConverter needed 4 seconds to complete the Basic compression of the 10 MB PDF. However, MConverter needed 18 seconds to complete the Strong compression and 17 seconds to complete the Extreme compression.
 
-## File Size Limits
+## Upload Size Limits
 
-You can probably already guess that the file size limit of SmallPDF was not disclosed either. I attempted to compress a 100 MB PDF, only to find out the limit is 15 MB. Even though that is a decent size limit for a PDF, people usually compress their files exactly because they go way over the desired size for a PDF by like 50 MB or even 100 MB. Unfortunately, SmallPDF’s size limit is not meant to accommodate such needs.
+You can probably already guess that the file size limit of SmallPDF was not disclosed in advance either. I attempted to convert a 100 MB PDF to Word, only to find out the limit is 15 MB. That may be enough for some ordinary documents, but it prevents free users from converting larger PDFs.
 
 ![SmallPDF rejects files larger than 15 MB on the free plan](smallpdf-15-mb-file-size-limit.webp)
 
-MConverter, on the other hand, can convert or compress files up to 100 MB for free. This makes it a handy tool for reducing the size of actually heavy files.
+MConverter, on the other hand, can convert or compress files up to 100 MB for free. This makes it the more practical option when working with larger PDFs.
 
-## PDF Conversion
+## Conversion Formats
 
 With a focus on file compression, SmallPDF only offers 5 file formats to convert PDFs to. Two of which are the image formats JPG and PNG. However, when choosing to convert to an image I always automatically received JPG images without the option to choose PNG. This potential error reduces the available conversion formats to 4. So while it does offer the basics, it cannot really be considered a full-blown file converter.
 
@@ -176,7 +176,7 @@ For comparison, MConverter has a strictly guaranteed [refund policy](#refunds), 
 
 SmallPDF’s free limit is 2 files per 24 hours, with no batch processing, and their 7-day free trial could bring you an unexpected paid yearly subscription. Contrast that with MConverter’s 15 free daily conversions and the ability to convert up to 8 files at once.
 
-SmallPDF also only offers Basic compression to its free users that reduces file size by 90-96%. That outdoes MConverter’s Basic and Strong compression of up to 75%, but is equal to its Extreme compression. However, SmallPDF’s high compression rate becomes useless due to the free plan’s size limit of 15 MB, which is significantly less than MConverter’s 100 MB. With a larger focus on file conversion, MConverter offers a wider variety of formats while SmallPDF only offers 5 file formats to convert PDF to (with PNG being impossible to select).
+SmallPDF also only offers Basic compression to its free users that reduces file size by 90-96%. That outdoes MConverter’s Basic and Strong compression of up to 75%, but is equal to its Extreme compression. However, SmallPDF’s high compression rate is less useful due to the free plan’s size limit of 15 MB, which is significantly less than MConverter’s 100 MB. With a larger focus on file conversion, MConverter offers a wider variety of formats while SmallPDF only offers 5 file formats to convert PDF to (with PNG being impossible to select).
 
 In conclusion, while SmallPDF offers high quality compression and conversion to all its users, it is outdone by MConverter when it comes to free daily limits, file size limits and variety of formats to convert to.
 
