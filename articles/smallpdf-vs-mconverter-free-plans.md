@@ -2,8 +2,8 @@
 title: "SmallPDF vs MConverter: Free Plan Comparison"
 meta_title: "SmallPDF vs MConverter: Free Plan Limits in 2026 • File Conversion Blog"
 description: What can you do for free with SmallPDF? Turns out, not that much, especially when compared with MConverter.
-image: TODO.webp
-image_alt: TODO
+image: smallpdf-vs-mconverter-free.webp
+image_alt: SmallPDF and MConverter logos
 date_added: 2026-08-14
 date_updated: 2026-08-14
 author: vanissia-tzarvenkova
