@@ -1,8 +1,8 @@
 ---
 title: MConverter is now available on the App Store
 description: Our new app makes it even easier to convert or compress files on iPhone and iPad.
-image: TODO.webp
-image_alt: TODO
+image: app-store-listing.webp
+image_alt: MConverter on the App Store
 date_added: 2026-08-19
 date_updated: 2026-08-19
 author: martin-minchev
