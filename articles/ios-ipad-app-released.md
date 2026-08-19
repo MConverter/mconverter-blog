@@ -23,7 +23,7 @@ Here are just a few examples of what's now possible with the MConverter app, tha
 
 ![Screenshot from an iPad showing "Open With MConverter" in the Files app](open-with-mconverter.webp)
 
-You were sent a file in some obscure format (or even something more common like a RAR archive), and now you can't open it. With the MConverter app installed, there's no need to worry. Just long-press the file in the Files app, and select **Open With > MConverter**. You can then convert it to a more common format that your iPhone can handle, or even compress it if it's PDF to save space. For example, you can convert a RAR archive to ZIP, which can then be natively extracted by iOS.
+You were sent a file in some obscure format (or even something more common like a RAR archive), and now you can't open it. With the MConverter app installed, there's no need to worry. Just long-press the file in the Files app and select **Open With > MConverter**. You can then convert it to a more common format that your iPhone can handle, or even compress it if it's a PDF to save space. For example, you can convert a RAR archive to ZIP, which can then be natively extracted by iOS.
 
 ## Share files from all other apps
 
@@ -39,10 +39,10 @@ The selected items will be added to MConverter immediately, so you can start con
 
 Instead of having all converted files end up in the default Downloads folder, the MConverter app uses a dedicated folder in the Files app. This makes it easier to find your converted files and keep them organized.
 
-Of course, you can also share them directly to other apps, without having to download them first.
+Of course, you can also share them directly with other apps, without having to download them first.
 
 ## Let us know what you think
 
-Me and the team would love to hear your feedback on the MConverter app for iPhone and iPad.
+The team and I would love to hear your feedback on the MConverter app for iPhone and iPad.
 
 You can download the app from the [App Store](https://apps.apple.com/app/apple-store/id6748453062?pt=127427735&ct=blog-app-released&mt=8) and leave a review.
