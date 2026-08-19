@@ -35,7 +35,7 @@ The selected items will be added to MConverter immediately, so you can start con
 
 ## Download converted files to a dedicated MConverter folder
 
-**TODO: Download notifications >> Files app 3D-touch**
+![Dedicated MConverter folder](notification-to-folder.webp)
 
 Instead of having all converted files end up in the default Downloads folder, the MConverter app uses a dedicated folder in the Files app. This makes it easier to find your converted files and keep them organized.
 
