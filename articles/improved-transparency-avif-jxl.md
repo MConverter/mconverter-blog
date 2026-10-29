@@ -33,6 +33,6 @@ If you have a WebM video that contains transparent areas, you can now convert it
 
 ## Fixed WebP frame stacking glitch
 
-When converting most [video formats to WebP](/convert/mp4/webp/), transparent areas could cause a visual glitch in which each subsequent frame got stacked on top of the previous ones. This problem has been fixed, so the resulting animation should now look like your original file.
+When converting most [video formats to WebP](/convert/mov/webp/), transparent areas could cause a visual glitch in which each subsequent frame got stacked on top of the previous ones. This problem has been fixed, so the resulting animation should now look like your original file.
 
 If you notice any issues with transparency handling, please [let us know](#legal) and we’ll gladly help.
